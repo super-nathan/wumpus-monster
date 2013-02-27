@@ -1,0 +1,11 @@
+Source: wumpus-monster
+Section: unknown
+Priority: extra
+Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Homepage: www.super-nathan.com
+
+Package: wumpus-monster
+Architecture: all
+Depends:
+Description: Simple program to draw a wumpus-monster

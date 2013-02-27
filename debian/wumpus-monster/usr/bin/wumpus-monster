@@ -1,0 +1,14 @@
+#!/bin/bash
+clear
+echo ""
+echo ""
+echo "    @   @ "
+echo "      V   "
+echo "  ========="
+echo " |||||||||||"
+echo "  |||||||||  "
+echo ""
+echo ""
+exit 0
+
+
