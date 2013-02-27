@@ -3,6 +3,6 @@
 ## NOTE
 # post*** scripts are optional, however, if you change something
 # in a postinst script, make sure you undo it in a postrm
-
-ln -s -T /usr/bin/wumpus-monster /usr/bin/w-m
+ 
+rm /usr/bin/w-m
 exit 0

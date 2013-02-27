@@ -1,3 +1,0 @@
-#!/bin/bash
-ln -s -T /usr/bin/wumpus-monster /usr/bin/w-m
-exit 0

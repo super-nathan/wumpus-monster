@@ -1,9 +1,0 @@
-Package: wumpus-monster
-Version: 0.1.2
-Architecture: all
-Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
-Installed-Size: 30
-Section: unknown
-Priority: extra
-Homepage: www.super-nathan.com
-Description: Simple program to draw a wumpus-monster
